@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fintech</string>
+    <string name="title_activity_main">fintech</string>
+    <string name="package_name">com.pragn.finance</string>
+    <string name="custom_url_scheme">com.pragn.finance</string>
+</resources>
