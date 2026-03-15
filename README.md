@@ -6,8 +6,16 @@ A comprehensive financial analysis and management tool designed to help users tr
 - **Expense Tracking**: AI-powered categorization and receipt scanning 
 - **Investment Portfolio**: Real-time stock tracking and analysis 
 - **Budget Planning**: Smart recommendations and goal setting 
-- **Analytics Dashboard**: Interactive charts and visualizations 
-- **Report Generation**: PDF and Excel reports with one click 
+- **Analytics Dashboard**: Interactive charts and visualizations
+- 
+- ## AI Features
+
+- **Budget Prediction:** Predicts future spending based on past trends.  
+- **Expense Categorization:** Automatically tags transactions into categories.  
+- **Fraud Detection:** Alerts on suspicious transactions.  
+- **Spending Insights:** Gives recommendations to optimize expenses.  
+- **Wallet Analytics:** Shows charts and trends for better financial decisions.  
+- **Chat Assistant:** Ask questions about your spending and budget.  
 🎥 Demo Video
 Watch our project in action! Download the demo video:
 [📽️ Click here to download demo video](finance-appVideo.mp4)
