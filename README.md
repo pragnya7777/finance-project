@@ -7,7 +7,7 @@ A comprehensive financial analysis and management tool designed to help users tr
 - **Investment Portfolio**: Real-time stock tracking and analysis 
 - **Budget Planning**: Smart recommendations and goal setting 
 - **Analytics Dashboard**: Interactive charts and visualizations
-- 
+  
 - ## AI Features
 
 - **Budget Prediction:** Predicts future spending based on past trends.  
